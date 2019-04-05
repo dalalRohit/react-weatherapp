@@ -1,0 +1,8 @@
+.Sidenav{
+    width: 50%;
+    max-width: 60%;
+    border: 1px solid black;
+    background-color: lightblue;
+    height: 100vh;
+    /* display: none; */
+}

@@ -1,0 +1,11 @@
+.Result{
+    width: 100%;
+    margin-top: 10px;
+    max-width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgoldenrodyellow;
+}

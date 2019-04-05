@@ -1,0 +1,17 @@
+.Nav{
+    border: 1px olive solid;
+    width: 30%;
+    max-width: 100%;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+@media (max-width:699px) {
+    .Nav{
+        display: none;
+    }
+}

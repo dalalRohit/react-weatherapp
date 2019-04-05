@@ -1,0 +1,10 @@
+.menuButton{
+    color: black;
+    display: none;
+}
+
+@media(max-width:699px){
+    .menuButton{
+        display: block;
+    }
+}
